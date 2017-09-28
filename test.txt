@@ -1,2 +1,7 @@
 test text
+<<<<<<< HEAD
 some new content
+=======
+
+DEV DEV DEV
+>>>>>>> qa-dev

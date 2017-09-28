@@ -1,3 +1,7 @@
 some content2
 
+<<<<<<< HEAD
 some new input
+=======
+dev new content
+>>>>>>> qa-dev

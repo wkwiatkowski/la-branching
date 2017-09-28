@@ -1,2 +1,7 @@
 backup content
+<<<<<<< HEAD
 some new content3
+=======
+
+some DEV BAK content
+>>>>>>> qa-dev
